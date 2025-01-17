@@ -272,6 +272,11 @@ MonoBehaviour:
   numerator: 1
   denominator: 10
   percent: 10
+  accumulatedCnt: 53
+  accumulatedAttemptCnt: 492
+  accumulatedAverage: 9.283019
+  accumulatedPercent: 10.772358
+  loopRange: 10
 --- !u!4 &853103908
 Transform:
   m_ObjectHideFlags: 0
